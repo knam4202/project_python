@@ -1,0 +1,6 @@
+lab:
+	https://github.com/agh-glk/python-lecture
+
+temat:
+	https://docs.google.com/document/d/1iJwsxy6FwbkXB-x7WZSXyKtHUsh_3kMYGwd5qUfkzTM/edit
+
